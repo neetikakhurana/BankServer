@@ -1,0 +1,450 @@
+Server:
+
+neetikakhurana@neetikakhurana-VirtualBox:~/Documents/Project1$ clear
+
+neetikakhurana@neetikakhurana-VirtualBox:~/Documents/Project1$ make clean
+rm BankServer Client
+neetikakhurana@neetikakhurana-VirtualBox:~/Documents/Project1$ make compile
+gcc -o BankServer BankServer.c -lm -lpthread
+gcc -o Client Client.c
+neetikakhurana@neetikakhurana-VirtualBox:~/Documents/Project1$ make runserver
+./BankServer 8888
+Thread 139854862165760
+Thread 139854853773056
+Thread 139854845380352
+Thread 139854836987648
+Thread 139854828594944
+Thread 139854820202240
+Thread 139854738355968
+Thread 139854729963264
+Thread 139854721570560
+Thread 139854713177856
+Thread 139854704785152
+Thread 139854696392448
+Thread 139854687999744
+Thread 139854679607040
+Thread 139854671214336
+Thread 139854662821632
+Thread 139854654428928
+Thread 139854646036224
+Thread 139854637643520
+Thread 139854629250816
+Data received from client: 5 104 d 200
+Thread number 139854845380352
+This account id exists in the database
+Depositing amount
+Amount balance 663300
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854853773056
+This account id exists in the database
+Depositing amount
+Amount balance 663500
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854836987648
+This account id exists in the database
+Depositing amount
+Amount balance 663700
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854828594944
+This account id exists in the database
+Depositing amount
+Amount balance 663900
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854862165760
+This account id exists in the database
+Depositing amount
+Amount balance 664100
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854738355968
+This account id exists in the database
+Depositing amount
+Amount balance 664300
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854729963264
+This account id exists in the database
+Depositing amount
+Amount balance 664500
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854721570560
+This account id exists in the database
+Depositing amount
+Amount balance 664700
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854820202240
+This account id exists in the database
+Depositing amount
+Amount balance 664900
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854671214336
+This account id exists in the database
+Depositing amount
+Amount balance 665100
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854646036224
+This account id exists in the database
+Depositing amount
+Amount balance 665300
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854696392448
+This account id exists in the database
+Depositing amount
+Amount balance 665500
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854713177856
+This account id exists in the database
+Depositing amount
+Amount balance 665700
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854704785152
+This account id exists in the database
+Depositing amount
+Amount balance 665900
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854687999744
+This account id exists in the database
+Depositing amount
+Amount balance 666100
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854662821632
+This account id exists in the database
+Depositing amount
+Amount balance 666300
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854654428928
+This account id exists in the database
+Depositing amount
+Amount balance 666500
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854637643520
+This account id exists in the database
+Depositing amount
+Amount balance 666700
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854629250816
+This account id exists in the database
+Depositing amount
+Amount balance 666900
+Sending acknowledgement.........
+
+Data received from client: 5 104 d 200
+Thread number 139854679607040
+This account id exists in the database
+Depositing amount
+Amount balance 667100
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854853773056
+This account id exists in the database
+Depositing amount
+Amount balance 452600
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854845380352
+This account id exists in the database
+Depositing amount
+Amount balance 452700
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854828594944
+This account id exists in the database
+Depositing amount
+Amount balance 452800
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854836987648
+This account id exists in the database
+Depositing amount
+Amount balance 452900
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854862165760
+This account id exists in the database
+Depositing amount
+Amount balance 453000
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854729963264
+This account id exists in the database
+Depositing amount
+Amount balance 453100
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854820202240
+This account id exists in the database
+Depositing amount
+Amount balance 453200
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854738355968
+This account id exists in the database
+Depositing amount
+Amount balance 453300
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854721570560
+This account id exists in the database
+Depositing amount
+Amount balance 453400
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854671214336
+This account id exists in the database
+Depositing amount
+Amount balance 453500
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854646036224
+This account id exists in the database
+Depositing amount
+Amount balance 453600
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854713177856
+This account id exists in the database
+Depositing amount
+Amount balance 453700
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854704785152
+This account id exists in the database
+Depositing amount
+Amount balance 453800
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854696392448
+This account id exists in the database
+Depositing amount
+Amount balance 453900
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854662821632
+This account id exists in the database
+Depositing amount
+Amount balance 454000
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854654428928
+This account id exists in the database
+Depositing amount
+Amount balance 454100
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854687999744
+This account id exists in the database
+Depositing amount
+Amount balance 454200
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854637643520
+This account id exists in the database
+Depositing amount
+Amount balance 454300
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854679607040
+This account id exists in the database
+Depositing amount
+Amount balance 454400
+Sending acknowledgement.........
+
+Data received from client: 10 103 d 100
+Thread number 139854629250816
+This account id exists in the database
+Depositing amount
+Amount balance 454500
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854853773056
+This account id exists in the database
+Depositing amount
+Amount balance 673500
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854845380352
+This account id exists in the database
+Depositing amount
+Amount balance 673700
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854836987648
+This account id exists in the database
+Depositing amount
+Amount balance 673900
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854828594944
+This account id exists in the database
+Depositing amount
+Amount balance 674100
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854862165760
+This account id exists in the database
+Depositing amount
+Amount balance 674300
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854671214336
+This account id exists in the database
+Depositing amount
+Amount balance 674500
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854738355968
+This account id exists in the database
+Depositing amount
+Amount balance 674700
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854721570560
+This account id exists in the database
+Depositing amount
+Amount balance 674900
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854820202240
+This account id exists in the database
+Depositing amount
+Amount balance 675100
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854729963264
+This account id exists in the database
+Depositing amount
+Amount balance 675300
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854646036224
+This account id exists in the database
+Depositing amount
+Amount balance 675500
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854704785152
+This account id exists in the database
+Depositing amount
+Amount balance 675700
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854687999744
+This account id exists in the database
+Depositing amount
+Amount balance 675900
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854713177856
+This account id exists in the database
+Depositing amount
+Amount balance 676100
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854696392448
+This account id exists in the database
+Depositing amount
+Amount balance 676300
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854662821632
+This account id exists in the database
+Depositing amount
+Amount balance 676500
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854654428928
+This account id exists in the database
+Depositing amount
+Amount balance 676700
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854637643520
+This account id exists in the database
+Depositing amount
+Amount balance 676900
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854629250816
+This account id exists in the database
+Depositing amount
+Amount balance 677100
+Sending acknowledgement.........
+
+Data received from client: 15 102 d 200
+Thread number 139854679607040
+This account id exists in the database
+Depositing amount
+Amount balance 677300
+Sending acknowledgement.........

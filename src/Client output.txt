@@ -1,0 +1,240 @@
+neetikakhurana@neetikakhurana-VirtualBox:~/Documents/Project1$ ./script.sh
+neetikakhurana@neetikakhurana-VirtualBox:~/Documents/Project1$ Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Sending.....5 104 d 200
+
+Message Received : ACK: Amount deposited
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Sending.....5 104 d 200
+
+Message Received : ACK: Amount deposited
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Sending.....5 104 d 200
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+Message Received : ACK: Amount deposited
+
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Sending.....5 104 d 200
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Sending.....10 103 d 100
+
+Message Received : ACK: Amount deposited
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Sending.....10 103 d 100
+
+Message Received : ACK: Amount deposited
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Sending.....10 103 d 100
+
+Sending.....10 103 d 100
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Sending.....15 102 d 200
+
+Sending.....15 102 d 200
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+Sending.....15 102 d 200
+
+Message Received : ACK: Amount deposited
+
+Sending.....15 102 d 200
+
+Message Received : ACK: Amount deposited
+
+Sending.....15 102 d 200
+
+Message Received : ACK: Amount deposited
+
+Sending.....15 102 d 200
+
+Sending.....15 102 d 200
+
+Sending.....15 102 d 200
+
+Sending.....15 102 d 200
+
+Sending.....15 102 d 200
+
+Message Received : ACK: Amount deposited
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
+
+
+Message Received : ACK: Amount deposited
+Message Received : ACK: Amount deposited
+
+
+Sending.....15 102 d 200
+
+Message Received : ACK: Amount deposited
+
+Sending.....15 102 d 200
+
+Sending.....15 102 d 200
+
+Sending.....15 102 d 200
+
+Sending.....15 102 d 200
+
+Message Received : ACK: Amount deposited
+Message Received : ACK: Amount deposited
+
+
+Message Received : ACK: Amount deposited
+Message Received : ACK: Amount deposited
+
+
+Sending.....15 102 d 200
+
+Message Received : ACK: Amount deposited
+
+Sending.....15 102 d 200
+
+Message Received : ACK: Amount deposited
+
+Sending.....15 102 d 200
+
+Message Received : ACK: Amount deposited
+
+Sending.....15 102 d 200
+
+Sending.....15 102 d 200
+
+Message Received : ACK: Amount deposited
+
+Message Received : ACK: Amount deposited
